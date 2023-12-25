@@ -1,0 +1,196 @@
+.wrapper{
+    width: 1440px;
+    height: 1170px;
+    border: 2px solid purple;
+    border-top: -139px;
+    border-left: -101px;
+    font-family: lato, sans-serif;
+    box-sizing: border-box;
+    
+    
+    
+}
+
+nav{
+    width: 1360px;
+    height:73px;
+    margin-top:28px;
+    margin-left:40px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.wp-logo:{
+    display: inline-block;
+}
+
+nav ul{ 
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    
+     
+    width:476px;
+    height: 40px;
+    top: 28px;
+    left: 924px
+    
+}
+
+aside{
+    background-color: #1179BF;
+   display: flex;
+   flex-direction: column;
+   width: 312px;
+   height: 795px;
+   color:  #FFFFFF;
+
+
+  
+
+}
+div .panel-grid-container{
+    width:892px;
+    height: 845px;
+    margin-top: 186px;
+    margin-left: 262px;
+    border-radius: 0px 6px 6px 0px;
+    display: flex;
+    
+
+}
+
+.main-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+
+div .side-bar-content{
+    padding: 30px;
+
+}
+
+.checkout{
+    width: 580px; ;
+    height: 80px;
+    
+}
+
+.checkout-logo{
+width: 161px;
+height: 54px;
+}
+
+.frame-one{
+    width: 580px;
+    height: 21px;
+
+}
+
+.frame-two{
+    display: inline-block;
+}
+
+.kirk-beard{
+    border-radius: 50%;
+
+
+}
+
+.basic-info{
+    display: inline-block;
+}
+
+.payment-info{
+    display: inline-block;
+}
+
+.email{
+   
+}
+
+.frame-one{
+    width: 580px;
+    height: 221px;
+    
+}
+
+.frame-two{
+    width: 580px;
+    height: 154px;
+}
+
+.first-name-input{
+    display: block;
+    width: 227px;
+    height: 36px;
+    background-color:#EDEFF2;
+    ;
+    
+}
+
+.last-name-input{
+    display: block;
+    width: 226px;
+    height: 36px;
+    background-color: #EDEFF2;
+    
+}
+
+button{
+    display:block;
+    width: 483px;
+    height: 52px;
+    background: #038E7D;
+    color: #FFFFFF;
+    font-family: Lato;
+font-size: 18px;
+font-weight: 700;
+
+letter-spacing: -0.39600005745887756px;
+text-align: center;
+
+    
+
+
+
+}
+
+
+.need-help{
+    display: inline-block;
+}
+
+.stripe-logo{
+    display: block;
+    
+
+}
+
+.credit-card{
+    display: block;
+    width: 483px;
+    height: 36px;
+    background-color: #EDEFF2;
+}
+
+.email{
+    display: block;
+    width: 370px;
+    height: 36;
+    background-color:#EDEFF2 ;
+}
+
+.purchase-section{
+    width: 483px;
+    height: 146.1px;
+    top: ;
+}
